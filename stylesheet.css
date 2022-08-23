@@ -255,5 +255,9 @@ nav ul li a{
     position: absolute;
     bottom: 40%;
     left: 50%;
-    transform: translate();
+    transform: translateX(-50%)
+
+}
+hr{
+    
 }
